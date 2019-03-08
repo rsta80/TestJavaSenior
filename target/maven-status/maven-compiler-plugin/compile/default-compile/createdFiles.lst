@@ -1,0 +1,7 @@
+es/brujula/entities/AssociatedProfessor.class
+es/brujula/entities/DepartmentProfessors.class
+es/brujula/entities/Professor.class
+es/brujula/Main.class
+es/brujula/entities/Person.class
+es/brujula/exception/BrujulaException.class
+es/brujula/entities/ActingProfessor.class
