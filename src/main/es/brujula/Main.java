@@ -6,7 +6,7 @@ public class Main {
 
     private Main(){
 
-        //Nothing to do here...
+        //Nothing to do here....
 
     }
 
