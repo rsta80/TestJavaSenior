@@ -19,6 +19,7 @@ public class Person {
 		this.name = name;
 		this.surName = surName;
 		this.yearOfBirth = yearOfBirth;
+
 	}
 
 	public String getName() {
